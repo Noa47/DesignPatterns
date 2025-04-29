@@ -16,7 +16,9 @@ public class MainApp {
         editor.printText();
         editor.undo();
         editor.printText();
-
+        editor.redo();
+        editor.redo();
+        editor.printText();
     }
 
 }
