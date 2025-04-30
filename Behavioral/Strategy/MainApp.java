@@ -23,7 +23,7 @@ public class MainApp {
 Le Strategy Pattern est un modèle comportemental qui permet de définir différentes 
 façons d’accomplir une action, et de choisir dynamiquement laquelle utiliser.
 En Java, on l’utilise pour changer facilement d’algorithme sans modifier le code principal.
-
+à utiliser lorsque vous avez plusieurs algorithmes pour effectuer une tâche.
 
 Interface ou classe abstraite (Strategy) → définit la méthode commune à toutes les stratégies.
 Classe(s) concrète(s) (ConcreteStrategy) → implémentent une version spécifique de la méthode.
