@@ -22,5 +22,4 @@ Le pattern Facade (ou façade en français) est un design pattern structurel qui
  à un ensemble complexe de classes, bibliothèques ou sous-systèmes.
 En résumé :
     Le pattern Facade sert à cacher la complexité d’un système derrière une interface simple et conviviale.
-
-- Une classe concrète centralisant le sous-système afin de simplifier l'utilisation pour le client
+*/
